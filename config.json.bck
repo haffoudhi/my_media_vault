@@ -1,0 +1,9 @@
+{
+  "videoDir": "Videos",
+  "dbFile": "progress.json",
+  "excludedFolders": [],
+  "skipSettings": {
+    "forward": 30,
+    "backward": 15
+  }
+}

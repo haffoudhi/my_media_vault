@@ -1,0 +1,7 @@
+/.idea
+/.project
+/.settings
+/bin
+/node_modules
+config.json
+progress.json
